@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="ha">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Tarihin Iyalin Malam Sambo</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="header">
+        <div class="container">
+            <h1>Tarihin Iyalin Malam Sambo</h1>
+            <p>Asali • Tarihi • Zuriyya • Zumunci</p>
+        </div>
+    </header>
+
+
+    <!-- NAVIGATION -->
+    <nav class="navbar">
+        <div class="container nav-container">
+
+            <a href="#gida">Gida</a>
+            <a href="#tarihi">Tarihi</a>
+            <a href="#magabata">Magabata</a>
+            <a href="#zuriyya">Zuriyya</a>
+            <a href="#family-tree">Family Tree</a>
+
+        </div>
+    </nav>
+
+
+    <!-- HERO -->
+    <section class="hero" id="gida">
+
+        <div class="container hero-content">
+
+            <span class="label">
+                TARIHIN IYALI
+            </span>
+
+            <h2>
+                Tarihin Magabata<br>
+                da Zuriyar Malam Sambo
+            </h2>
+
+            <p>
+                Wannan shafi an samar da shi domin adana tarihin
+                magabata, dangantakar iyali da zuriyar Malam Sambo,
+                domin tarihi ya kasance abin tunawa daga tsara zuwa tsara.
+            </p>
+
+            <a href="#tarihi" class="button">
+                Karanta Tarihin
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- INTRODUCTION -->
+    <section class="section" id="tarihi">
+
+        <div class="container">
+
+            <div class="section-title">
+                <span>GABATARWA</span>
+
+                <h2>
+                    Tarihin Iyalin
+                </h2>
+            </div>
+
+            <div class="history">
+
+                <p>
+                    Wannan shafi ya ƙunshi tarihin wata zuriyya da ta
+                    samo asali daga manyan magabata, waɗanda tarihinsu
+                    ya kasance wani muhimmin ginshiƙi ga zuriyar da ta
+                    biyo bayansu.
+                </p>
+
+                <p>
+                    Domin fahimtar tarihin Malam Sambo da zuriyarsa,
+                    ya dace a fara daga magabatan da suka gabace shi.
+                    Saboda haka, tarihinmu yana komawa baya zuwa
+                    <strong>Malam Salihu</strong>, wanda tarihinsa ya
+                    haɗu da tarihin gidan Malam Lawan da kuma zuriyar
+                    Malam Goje.
+                </p>
+
+                <p>
+                    Wannan tsarin zai ba mai karatu damar fahimtar
+                    yadda zuriyar ta kasance daga magabata zuwa
+                    zuriyar da muke da ita a yau.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- MAGABATA -->
+    <section class="section light" id="magabata">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>ASALIN ZURIYYA</span>
+
+                <h2>
+                    Magabatan Malam Goje
+                </h2>
+
+            </div>
+
+
+            <!-- MALAM SALIHU -->
+
+            <article class="history-card">
+
+                <div class="card-number">
+                    01
+                </div>
+
+                <h3>
+                    Malam Salihu
+                </h3>
+
+                <p>
+                    A cikin tarihin wannan zuriyya, Malam Salihu
+                    yana daga cikin manyan mutanen da suka taka muhimmiyar
+                    rawa wajen samuwar wannan dangantaka ta iyali.
+                </p>
+
+                <p>
+                    Malam Salihu ya kasance <strong>Malamin gari</strong>,
+                    kuma gidansa ya kasance wuri da mutane ke zuwa
+                    neman ilimi da kuma hulɗa da shi.
+                </p>
+
+            </article>
+
+
+            <!-- RAKIYYA -->
+
+            <article class="history-card">
+
+                <div class="card-number">
+                    02
+                </div>
+
+                <h3>
+                    Rakiya ’Yar Malam Salihu
+                </h3>
+
+                <p>
+                    Rakiya ’yar Malam Salihu tana da muhimmiyar rawa
+                    a cikin wannan tarihin, domin ita ce mahaifiyar
+                    <strong>Malam Goje</strong>.
+                </p>
+
+                <p>
+                    A wani lokaci, <strong>Malam Lawan</strong> ya sauka
+                    a wajen Malam Salihu. Saboda kyakkyawar dangantaka
+                    da kuma alakar da ta samu tsakanin su, Malam Salihu
+                    ya ba Malam Lawan auren ’yarsa Rakiya.
+                </p>
+
+                <p>
+                    Wannan aure ya zama wani muhimmin mataki a cikin
+                    tarihin zuriyar, domin daga wannan aure ne aka samu
+                    <strong>Malam Goje</strong>.
+                </p>
+
+            </article>
+
+
+            <!-- MALAM LAWAN -->
+
+            <article class="history-card">
+
+                <div class="card-number"
+  03
+                </div>
+
+                <h3>
+                    Malam Lawan
+                </h3>
+
+                <p>
+                    Malam Lawan yana daga cikin manyan magabatan da
+                    suka haɗa tarihin gidan Malam Salihu da zuriyar
+                    Malam Goje.
+                </p>
+
+                <p>
+                    Bayan aurensa da Rakiya ’yar Malam Salihu, aka samu
+                    zuriyar da ta kai ga <strong>Malam Goje</strong>.
+                    Saboda haka, tarihin Malam Lawan yana da muhimmiyar
+                    alaƙa da fahimtar asalin zuriyar.
+                </p>
+
+            </article>
+
+
+            <!-- MALAM GOJE -->
+
+            <article class="history-card highlight">
+
+                <div class="card-number">
+                    04
+                </div>
+
+                <h3>
+                    Malam Goje
+                </h3>
+
+                <p>
+                    <strong>Malam Goje</strong> shi ne ɗan Malam Lawan
+                    da Rakiya ’yar Malam Salihu. Tarihinsa yana daga
+                    cikin muhimman sassan wannan babban tarihin iyali.
+  /p>
+
+                <p>
+                    Daga Malam Goje ne tarihin ya ci gaba zuwa sauran
+                    zuriyar da daga baya ta kai ga <strong>Malam Sambo</strong>.
+                </p>
+
+            </article>
+
+        </div>
+
+    </section>
+
+
+    <!-- ZURIYYAR MALAM SAMBO -->
+    <section class="section" id="zuriyya">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>ZURIYYA</span>
+
+                <h2>
+                    Daga Malam Goje zuwa Malam Sambo
+                </h2>
+
+            </div>
+
+
+            <div class="journey">
+
+                <div class="journey-box">
+                    <span>MAGABACI</span>
+                    <h3>Malam Salihu</h3>
+                </div>
+
+                <div class="arrow">↓</div>
+
+                <div class="journey-box">
+                    <span>’YARSA</span>
+                    <h3>Rakiya</h3>
+                </div>
+
+                <div class="arrow">↓</div>
+
+                <div class="journey-box">
+                    <span>MAHAIFI</span>
+                    <h3>Malam Lawan</h3>
+                </div>
+
+                <div class="arrow">↓</div>
+
+                <div class="journey-box">
+                    <span>ƊANSA</span>
+                    <h3>Malam Goje</h3>
+                </div>
+
+                <div class="arrow">↓</div>
+
+                <div class="journey-box main">
+                    <span>ZURIYYA</span>
+                    <h3>Malam Sambo</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+  <!-- MANUFA -->
+    <section class="section purpose">
+
+        <div class="container">
+
+            <div class="section-title">
+
+                <span>MANUFA</span>
+
+                <h2>
+                    Me Ya Sa Muke Adana Wannan Tarihi?
+                </h2>
+
+            </div>
+
+
+            <div class="purpose-grid">
+
+                <div class="purpose-card">
+                    <div class="icon">📖</div>
+                    <h3>Adana Tarihi</h3>
+                    <p>
+                        Domin tarihin magabata ya kasance a rubuce
+                        kuma kada ya ɓace daga tsara zuwa tsara.
+                    </p>
+                </div>
+
+
+                <div class="purpose-card">
+                    <div class="icon">🌳</div>
+                    <h3>Sanin Asali</h3>
+                    <p>
+                        Domin ’ya’ya da jikoki su san asalinsu
+                        da dangantakar iyalinsu.
+                    </p>
+                </div>
+
+
+                <div class="purpose-card">
+                    <div class="icon">🤝</div>
+                    <h3>Ƙarfafa Zumunci</h3>
+  
+                    <p>
+                        Domin ƙarfafa haɗin kai da zumunci
+                        tsakanin ’yan uwa.
+                    </p>
+                </div>
+
+
+                <div class="purpose-card">
+                    <div class="icon">👨‍👩‍👧‍👦</div>
+                    <h3>Gadon Zuriyya</h3>
+                    <p>
+                        Domin zuriyar da za ta zo nan gaba
+                        ta samu tarihin kakanninta.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- QUOTE -->
+    <section class="quote">
+
+        <div class="container">
+
+            <blockquote>
+                “Tarihin da aka adana yau,
+                shi ne abin tunawa da zuriyar gobe za ta gada.”
+            </blockquote>
+
+            <p>
+                — Tarihin Iyalin Malam Sambo
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <div class="container">
+
+            <h3>
+                Tarihin Iyalin Malam Sambo
+            </h3>
+
+            <p>
+                Asali • Tarihi • Zuriyya • Zumunci
+            </p>
+
+            <div class="footer-line"></div>
+
+            <p class="copyright">
+                © 2026 Tarihin Iyalin Malam Sambo
+            </p>
+
+        </div>
+
+    </footer>
+
+</body>
+</html>
+  
+  
